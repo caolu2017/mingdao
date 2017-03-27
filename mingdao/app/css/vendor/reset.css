@@ -1,0 +1,15 @@
+body,h1,h2,h3,h4,h5,h6,p,dl,ul,li,ol,from,input,textarea,th,td,select{
+    margin:0 ;padding:0;
+}
+em{font-style:normal;}
+li{list-style:none;}
+a{text-decoration: none;}
+img{border:none;vertical-align:bottom;}
+input,textarea{outline: 0;}
+textarea{resize:none;overflow:auto;}
+body{
+    font-size: 58.55%;
+    font-family: Arial,'Hiragino Sans GB',md-hsgb,'Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
+    background: #fff;
+    line-height: 1.5;
+}
